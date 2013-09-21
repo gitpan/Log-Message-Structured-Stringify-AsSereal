@@ -8,7 +8,7 @@
 #
 package Log::Message::Structured::Stringify::AsSereal;
 {
-  $Log::Message::Structured::Stringify::AsSereal::VERSION = '0.10';
+  $Log::Message::Structured::Stringify::AsSereal::VERSION = '0.11';
 }
 use Moose::Role;
 use namespace::autoclean;
@@ -44,7 +44,7 @@ Log::Message::Structured::Stringify::AsSereal
 
 =head1 VERSION
 
-version 0.10
+version 0.11
 
 =head1 SYNOPSIS
 
